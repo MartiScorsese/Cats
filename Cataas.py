@@ -26,7 +26,7 @@ def set_image():
         label.config(image=img)
         label.image = img
 
- def exit():
+def exit():
      window.destroy()
 
 
